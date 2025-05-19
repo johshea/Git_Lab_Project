@@ -111,6 +111,9 @@ Welcome to the **Advanced GitHub Lab**! This guide builds on beginner concepts a
 ---
 
 ##  Lab 1: Git Rebase
+git rebase is a powerful Git command that lets you move or "replay" commits from one branch onto another. 
+It's used to create a clean, linear commit history by integrating changes from one branch into another 
+without creating a merge commit.
 
 ### Step 1: Create Two Branches
 ```bash
