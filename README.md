@@ -1,4 +1,4 @@
-# Beginner's GitHub Lab Guide
+# Learn The Github Basics in an Hour or Less!
 
 Welcome to the GitHub lab for beginners! This guide walks you through creating a repository, making branches, committing changes, and merging pull requests.
 
@@ -268,8 +268,4 @@ Push this to GitHub and check the **Actions** tab for workflow runs.
 
 ---
 
-## 🧾 Certification Template
-
-A learner certificate is available in this repository:  
-**`learner-certification-template.md`**
 
